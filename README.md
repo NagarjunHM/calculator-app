@@ -40,12 +40,6 @@ Using npm:
 npm install
 ```
 
-Or using Yarn:
-
-```bash
-Or using Yarn:
-```
-
 4.run the project:
 
 ```bash
